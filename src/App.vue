@@ -29,9 +29,5 @@ export default {
   components: {
     BeachesPage,
   },
-
-  data: () => ({
-    //
-  }),
 };
 </script>

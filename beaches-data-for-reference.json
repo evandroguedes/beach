@@ -1,0 +1,109 @@
+{
+  "beaches": {
+    "al": {
+      "praiadogunga": {
+        "name": "praia do gunga",
+        "short_description": "A Praia do Gunga é uma das praias paradisíacas do nordeste mais conhecida. Como muitas pessoas ficam em Maceió acabam fazendo o passeio até lá, o lugar em bem acessível. É famosa pelas falésias espalhadas pelo ambiente, onde é possível fazer passeios de buggy além de aproveitar um banho na água salgada do mar.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-1-2.png?alt=media&token=a260dccc-e52f-45a3-8a6a-db3d1db86354",
+        "location": {
+          "city": "roteiro",
+          "state": "alagoas"
+        }
+      },
+      "praiadeantunes": {
+        "name": "praia de antunes",
+        "short_description": "A Praia do Gunga é uma das praias paradisíacas do nordeste mais conhecida. Como muitas pessoas ficam em Maceió acabam fazendo o passeio até lá, o lugar em bem acessível. É famosa pelas falésias espalhadas pelo ambiente, onde é possível fazer passeios de buggy além de aproveitar um banho na água salgada do mar.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-1.jpg?alt=media&token=43b81435-18ed-47b6-9458-82acc4aadc9b",
+        "location": {
+          "city": "maragogi",
+          "state": "alagoas"
+        }
+      },
+      "praiadofrances": {
+        "name": "praia do francês",
+        "short_description": "A casa das ondas fortes de Alagoas é a praia do Francês. É considerada uma das praias paradisíacas no Brasil porque conquista os visitantes que amam esportes radicais. Com as ondas e ventos fortes, é possível se aventurar no mar. Pensando que a praia está perto de Maceió, normalmente é um passeio de bate e volta.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-18.jpg?alt=media&token=a5cb6d8c-7fe3-421c-9250-4e449ab7de66",
+        "location": {
+          "city": "marechal deodoro",
+          "state": "alagoas"
+        }
+      },
+      "praiadocarroquebrado": {
+        "name": "praia do carro quebrado",
+        "short_description": "Mais um dos famosos passeios de bate e volta de Maceió é a Praia do Carro Quebrado. O ambiente é formado por coqueiros e falésias multicoloridas, e contém um toque selvagem, quase como se estivesse escondido do resto da região. Lá você pode apreciar águas esverdeadas e aproveitar para se distanciar do mundo.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-21.jpg?alt=media&token=f1730ad2-b524-4529-9171-77971774a410",
+        "location": {
+          "city": "barra de santo antônio",
+          "state": "alagoas"
+        }
+      },
+      "praiadopatacho": {
+        "name": "praia do patacho",
+        "short_description": "Mais uma das praias paradisíacas no Brasil entra para nossa lista: a Praia do Patacho. O local é totalmente deserto, por isso muitos turistas escolhem esse destino quando querem se desconectar do mundo e só se concentrar na natureza. A praia é bonita o ano todo, mas quando a maré está baixa é possível ir andando até as piscinas naturais.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-19.jpg?alt=media&token=237e57df-28de-4772-9643-2e435b08086f",
+        "location": {
+          "city": "são miguel dos milagres",
+          "state": "alagoas"
+        }
+      }
+    },
+    "ba": {
+      "praiadoespelho": {
+        "name": "praia do espelho",
+        "short_description": "Uma das praias paradisíacas na Bahia que é conhecida internacionalmente é a Praia do Espelho. O mais recomendado é visitar o local quando estiver com maré baixa, ai você pode entender o significado do “espelho”, onde é possível ver o reflexo do céu nas águas do mar. No entanto, o local também é interessante por conta da vegetação que cerca, dando a impressão de uma praia mais afastada e deserta.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-6.jpg?alt=media&token=0255a385-22ed-49b3-aec9-119bdf390be2",
+        "location": {
+          "city": "trancoso",
+          "state": "bahia"
+        }
+      },
+      "praiadejeribucacu": {
+        "name": "praia de jeribucaçu",
+        "short_description": "Já pensou na combinação de água salgada e doce? Então, você pode ter o melhor dos dois mundos na Praia de Jeribucaçu, já que um rio passa pela areia e desemboca no mar. Existe uma grande extensão de areia, onde é possível fazer caminhadas e praticar esportes enquanto aprecia a natureza envolta.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-13.jpg?alt=media&token=4dedae5b-ca03-46a1-b965-b003bed2a940",
+        "location": {
+          "city": "itacaré",
+          "state": "bahia"
+        }
+      },
+      "praiadohavaizinho": {
+        "name": "praia de jeribucaçu",
+        "short_description": "Fazendo parte de um complexo de trilhas, a praia do Havaizinho é uma das praias paradisíacas no Brasil. O percurso é de nível fácil, por isso muitas pessoas conseguem chegar e apreciar o mar calminho da região. No entanto, em volta das águas salgadas existe muitas pedras, que para quem tem coragem, podem servir de mirante do horizonte.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-17.jpg?alt=media&token=e53ec86d-63a9-4bc4-8fc3-b9c5530a4732",
+        "location": {
+          "city": "praia do havaizinho",
+          "state": "bahia"
+        }
+      }
+    },
+    "sc": {
+      "ilhadocampeche": {
+        "name": "ilha do campeche",
+        "short_description": "No sul de Floripa está a Ilha de Campeche, conhecida pela tonalidade de suas águas, que lembram um destino caribenho. Mas além disso, o ambiente também é um importante sítio arqueológico, com pinturas rupestres. O acesso é feito por meio de barcos, sendo assim, com fortes ventos e mau tempo as viagens podem ser interrompidas.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-23.jpg?alt=media&token=705b99d4-ae21-4f09-909b-28ed71f7c1b1",
+        "location": {
+          "city": "florianópolis",
+          "state": "santa catarina"
+        }
+      },
+      "guardadoembau": {
+        "name": "guarda do embaú",
+        "short_description": "Em Guarda do Embaú você pode conhecer uma das praias paradisíacas no Brasil e ainda visitar paisagens com rio de água doce. O local é famoso pelas práticas de surf com mar agitado, no entanto, algumas atividades no rio que corta a areia também são procuradas. Lá você pode fazer passeio de caiaque e barco para aproveitar mais a viagem.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-22.jpg?alt=media&token=b98474dc-f65d-442f-8e1e-12c754aa6230",
+        "location": {
+          "city": "palhoça",
+          "state": "santa catarina"
+        }
+      },
+      "praiadorosa": {
+        "name": "praia do rosa",
+        "short_description": "Nada melhor do que ir para um lugar que preserva a natureza. Muitos dos estabelecimentos da Praia do Rosa ficam em terrenos com mata nativa e respeitam o ambiente. Assim como os turistas, que para chegar no lugar precisam fazer trilhas, já que os caminhos de carro são limitados. Mas uma grande surpresa do local é que no inverno as baleias-francas aparecem e é possível vê-las até de longe.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/beach-e3b8a.appspot.com/o/praias-paradisiacas-no-Brasil-41.jpg?alt=media&token=92efb17c-d558-4304-9e24-ba7f438164ec",
+        "location": {
+          "city": "imbituba",
+          "state": "santa catarina"
+        }
+      }
+    }
+  }
+}
