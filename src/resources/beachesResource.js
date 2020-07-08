@@ -1,4 +1,4 @@
-import { api } from '../helpers/api';
+import api from '../helpers/api';
 
 const baseURL = 'https://us-central1-beach-e3b8a.cloudfunctions.net';
 

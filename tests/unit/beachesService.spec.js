@@ -1,12 +1,10 @@
-import { api } from '../../src/helpers/api';
+import api from '../../src/helpers/api';
 import {
   getBeaches,
 } from '../../src/services/beachesService';
 
 jest.mock('../../src/helpers/api', () => ({
-  api: {
-    get: jest.fn(),
-  },
+  get: jest.fn(),
 }));
 
 describe('beachesService', () => {
