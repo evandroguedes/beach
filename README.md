@@ -19,3 +19,8 @@ yarn build
 ```
 yarn lint
 ```
+
+### Unit tests
+```
+yarn test:unit
+```
